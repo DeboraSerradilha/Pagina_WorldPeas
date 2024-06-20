@@ -1,0 +1,103 @@
+h1 {
+    font-family:'EB Garamond', serif;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 200;
+    margin-top: 100px;     
+}
+
+h2 {
+    font-family:'Lora', serif;
+    font-size: large;
+    color: green;  
+    margin: 30px;
+}   
+
+.titulo-inferior {
+    font-family:'Lora', serif;
+    font-size: 15px;
+    color:black
+}
+
+h3,h4 {
+    font-family:'Lora', serif;
+    font-size:small;
+    display: inline;
+    margin-right: 30px;
+}   
+
+h2, h3 {
+    display: inline;
+    margin-right: 1100px;
+}
+
+h3,h4 {
+    display: inline;
+    margin-right: 30px;
+}   
+
+.titulo-inferior, .resposta {
+    display: inline;
+    margin: 200px;
+    margin-right: 400px;
+}    
+
+.botao-de-cima {
+    background-color: rgb(11, 128, 11);
+    color: white;
+    border: none;
+    padding: 10px 10px;
+    cursor: pointer;
+}
+
+.botao-do-meio {
+    font-size: medium;
+    background-color: rgb(11, 128, 11);
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 10px 5px;
+    margin-left: 900px;
+}
+
+.imagens {
+    display:flex;
+    margin: 10px;
+    margin-top: 100px;
+    margin-left: 650px;
+} 
+
+.container{
+    background-color: green;
+    width:100%;
+    height: 100%;
+    padding: 20px;
+}
+
+.img-container{
+    display:flex;
+    margin: 10px;
+    width: 50px;
+}
+
+.title-container{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+
+.colordiv1{
+    background-color: rgb(115, 20, 170);
+}
+
+.colordiv2{
+    background-color: red;
+}
+
+.divs{
+    display: flex;
+    gap: 20px; 
+    justify-content: space-between;
+    align-items: center;
+}
